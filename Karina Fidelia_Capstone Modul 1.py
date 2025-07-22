@@ -19,7 +19,7 @@ Silahkan pilih menu
     2. Update data kandang      
     3. Tambah data kandang
     4. Hapus data kandang
-    5. Penjualan livebird
+    5. Penjualan ayam (livebird)
     6. Log Out
 """)    
 
